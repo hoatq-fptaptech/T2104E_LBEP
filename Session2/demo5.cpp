@@ -1,4 +1,6 @@
 #include <stdio.h>
+// de dung can bac 2 thi them dong
+#include <math.h>
 
 int main(){
 	int a,b,c;
@@ -22,4 +24,6 @@ int main(){
 			printf("So lon nhat: %d",c);
 		}
 	}
+	
+	// can bac 2 cua 3:  sqrt(3)
 }
