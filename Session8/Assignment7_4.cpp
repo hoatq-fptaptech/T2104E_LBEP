@@ -20,5 +20,4 @@ int main(){
 		}
 	}
 	printf("Tong so duong lien tiep lon nhat: %d",dem_max);
-	
 }
