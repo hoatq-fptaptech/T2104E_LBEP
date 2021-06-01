@@ -12,4 +12,10 @@ int main(){
 	sapxepalphabe(arrs,n);
 	printf("Sau khi sap xep:\n");
 	inmangstring(arrs,n);
+	if(kiemtra(1,2) == 1){
+		
+	}
+	if(kiemtra2so(1,2)){
+		
+	}
 }

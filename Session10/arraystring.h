@@ -27,3 +27,16 @@ void inmangstring(char arrs[][50],int n){
 	
 	}
 }
+int kiemtra(int a,int b){
+	if(a > b){
+		return 1;
+	}
+	return 0;
+}
+bool kiemtra2so(int a,int b){
+	if(a > b){
+		return true;
+	}
+	return false;
+}
+
