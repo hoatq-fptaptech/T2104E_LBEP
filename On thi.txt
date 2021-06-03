@@ -1,0 +1,14 @@
+1. Variable & Datatype (int float double char)
+2. Condition && Operator (if else -- switch case)
+3. Loop ( for while do-while ++ break, continue) 
+4. Array 
+5. Function
+
+6. String 
+
+7. Pointer
+8. Struct
+9. File// lam theo cach khac voi ngon ngu lap trinh bac cao
+
+
+
